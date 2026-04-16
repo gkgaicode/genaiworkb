@@ -1,0 +1,5 @@
+Model,Feature,Accuracy,Precision,Recall,F1
+LogisticRegression,BoW,1.0,1.0,1.0,1.0
+MultinomialNB,BoW,1.0,1.0,1.0,1.0
+LogisticRegression,TF-IDF,1.0,1.0,1.0,1.0
+MultinomialNB,TF-IDF,1.0,1.0,1.0,1.0
